@@ -1,0 +1,5 @@
+filename,width,height,objects_detected,processing_time_seconds,status,error
+test_face_multiple.png,721,479,18,0.6224,Success,
+test_face_single.png,596,798,1,0.1243,Success,
+test_mixed.png,692,980,2,0.215,Success,
+test_plate_single.png,635,421,2,0.0797,Success,
